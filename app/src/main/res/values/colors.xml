@@ -9,4 +9,12 @@
     <color name="white">#FFFFFFFF</color>
     <color name="backgroundTheme">#212238</color>
     <color name="headerColor">#38e031</color>
+    <color name="inputColor">#76d192</color>
+    <color name="headerInput">#3AFD41</color>
+    <color name="input">#34E36C</color>
+    <color name="save">#675BEB</color>
+    <color name="calendar">#D8CBF3</color>
+
+    <color name="buttonBackground">#3ADFFD</color>
+
 </resources>

@@ -1,4 +1,14 @@
 package com.ryanandvinicius.bomsomapp.forms;
 
-public class FormClientActivity {
+import android.app.Activity;
+import android.os.Bundle;
+
+import androidx.annotation.Nullable;
+
+public class FormClientActivity extends Activity {
+
+    @Override
+    protected void onCreate(@Nullable Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+    }
 }

@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">BomSomApp</string>
+
+    <string-array name="spinner_music_styles">
+        <item>Forró</item>
+        <item>Funk</item>
+        <item>Pop</item>
+        <item>Rock</item>
+        <item>Brega</item>
+        <item>Axé</item>
+        <item>Outros</item>
+    </string-array>
 </resources>
