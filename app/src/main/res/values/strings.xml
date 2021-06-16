@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">BomSomApp</string>
-
+    <string name="sobre_n_s">Sobre nós:</string>
+    <string name="nossos_clientes">Nossos Clientes:</string>
+    <string name="funcio">Nossos Funcionários:</string>
+    <string name="nossos_projetos">Nossos projetos:</string>
+    
     <string-array name="spinner_music_styles">
         <item>Forró</item>
         <item>Funk</item>
@@ -10,4 +14,5 @@
         <item>Axé</item>
         <item>Outros</item>
     </string-array>
+
 </resources>
